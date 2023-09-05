@@ -1,0 +1,15 @@
+.Box {
+    text-align: center;
+    align-items: center;
+}
+
+.main{
+    width: 50%;
+    background-color: #ffffff;
+    height: 600px;
+    margin: 20px;
+}
+
+.Button {
+    margin-top: 0%;
+}
